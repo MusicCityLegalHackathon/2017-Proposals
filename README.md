@@ -1,6 +1,6 @@
 # 2017-Proposals
 
-* Proposed Solutions to [Emerging Problem Statements and Challenges](https://musiccitylegalhackathon.github.io/2017-Problems/)
+* This site is for proposed Solutions to [Emerging Problem Statements and Challenges](https://musiccitylegalhackathon.github.io/2017-Problems/)
 * Prototype site available at:  [https://musiccitylegalhackathon.github.io/2017-Proposals](https://musiccitylegalhackathon.github.io/2017-Proposals)
 
 ## Coming Soon...
